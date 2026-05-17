@@ -1,8 +1,7 @@
-# 🏥 Medical Text Summarizer (MedLM) - Giao diện người dùng
+# 🏥 Medical Text Summarizer (MedLM)
 
-Dự án Giao diện người dùng (Frontend) cho ứng dụng tóm tắt văn bản y khoa. Ứng dụng cung cấp trải nghiệm thân thiện, giúp các bác sĩ và chuyên gia y tế tóm tắt tài liệu, hồ sơ bệnh án hoặc các bài báo khoa học theo nhiều cấp độ khác nhau.
+Dự án Giao diện người dùng cho ứng dụng tóm tắt văn bản y khoa. Ứng dụng cung cấp trải nghiệm thân thiện, giúp các bác sĩ và chuyên gia y tế tóm tắt tài liệu, hồ sơ bệnh án hoặc các bài báo khoa học theo nhiều cấp độ khác nhau.
 
-Giao diện được thiết kế tràn viền (Full Window), sử dụng tone màu chủ đạo hồng nhạt (Pink Theme: `#F2BDD6`) mang lại cảm giác dễ chịu khi làm việc trong thời gian dài.
 
 ## ✨ Tính năng nổi bật
 
