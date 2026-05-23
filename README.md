@@ -36,7 +36,7 @@ MedLM là một ứng dụng frontend xây dựng bằng React, mô phỏng hệ
 **Bước 1: Clone (Tải) mã nguồn về máy**
 Mở terminal hoặc Command Prompt và chạy lệnh:
 ```bash
-git clone https://github.com/TenCuaBan/medical-text-summarizer.git
+git clone https://github.com/ttrang-2005/medical-text-summarizer.git
 ```
 
 **Bước 2: Di chuyển vào thư mục dự án**
