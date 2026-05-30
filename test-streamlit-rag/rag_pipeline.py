@@ -1,4 +1,5 @@
 import os
+os.environ['HF_HOME'] = 'D:/nlp/huggingface_cache'
 import re
 from dotenv import load_dotenv
 import pymupdf4llm
@@ -6,7 +7,7 @@ import uuid  # Thư viện sinh mã ngẫu nhiên
 
 from langchain_core.documents import Document
 from langchain_text_splitters import RecursiveCharacterTextSplitter
-from langchain_community.embeddings import HuggingFaceEmbeddings
+from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.vectorstores import Chroma
 
 from ollama import Client 
